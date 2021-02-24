@@ -1,0 +1,15 @@
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\bin\Debug\MvcWebAPI.DataAccess.dll.config
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\bin\Debug\MvcWebAPI.DataAccess.dll
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\bin\Debug\MvcWebAPI.DataAccess.pdb
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\obj\Debug\MvcWebAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\obj\Debug\MvcWebAPI.DataAccess.csproj.CopyComplete
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\obj\Debug\MvcWebAPI.DataAccess.dll
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\obj\Debug\MvcWebAPI.DataAccess.pdb
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\bin\Debug\System.Management.Automation.dll
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\bin\Debug\System.Management.Automation.xml
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\MvcWebAPI.DataAccess\obj\Debug\MvcWebAPI.DataAccess.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\AccessWebAPI\bin\Debug\AccessWebAPI.exe.config
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\AccessWebAPI\bin\Debug\AccessWebAPI.exe
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\AccessWebAPI\bin\Debug\AccessWebAPI.pdb
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\AccessWebAPI\obj\Debug\AccessWebAPI.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\AccessWebAPI\obj\Debug\AccessWebAPI.Form1.resources
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\AccessWebAPI\obj\Debug\AccessWebAPI.Properties.Resources.resources
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\AccessWebAPI\obj\Debug\AccessWebAPI.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\AccessWebAPI\obj\Debug\AccessWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\AccessWebAPI\obj\Debug\AccessWebAPI.exe
+C:\Users\kurtulusocL\Desktop\MvcWebAPI\AccessWebAPI\obj\Debug\AccessWebAPI.pdb
